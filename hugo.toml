@@ -1,0 +1,16 @@
+baseURL = 'https://distroless.app/'
+languageCode = 'en-us'
+title = 'Distroless'
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  title = "Distroless Dev"
+  description = "DevSecOps engineering, pipelines, and minimal infrastructure."
+  author = "James"
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+  
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
