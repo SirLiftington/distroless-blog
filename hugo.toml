@@ -12,5 +12,7 @@ theme = "PaperMod"
   showShareButtons = true
   showPostNavLinks = true
   
+  googleSiteVerification = "yw75eWWYKDgN50NxH03tIzBBL1WZqkoBs844AsO0KkQ"
+  
 [outputs]
   home = ["HTML", "RSS", "JSON"]
